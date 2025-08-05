@@ -16,3 +16,5 @@ A great step forward in enhancing my frontend development skills!
 OUTPUT:
 
 <img width="1281" height="477" alt="Image" src="https://github.com/user-attachments/assets/8a27401e-e01f-466f-9281-fd443eff38bf" />
+
+<img width="1029" height="837" alt="Image" src="https://github.com/user-attachments/assets/542fee89-d729-4fc3-8f36-1e3e1eb27a40" />
