@@ -14,3 +14,5 @@ It includes features like smooth UI elements and user-friendly design.
 A great step forward in enhancing my frontend development skills!
 
 OUTPUT:
+
+<img width="1281" height="477" alt="Image" src="https://github.com/user-attachments/assets/8a27401e-e01f-466f-9281-fd443eff38bf" />
